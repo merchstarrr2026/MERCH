@@ -122,15 +122,15 @@ h2 {
 }
 
 /* TABLETS */
-@media (max-width: 1000px) {
-  .grupo4 {
+@media (max-width: 900px) {
+  .grupo {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 /* CELULARES */
 @media (max-width: 550px) {
-  .grupo4 {
+  .grupo {
     grid-template-columns: 1fr;
   }
 
